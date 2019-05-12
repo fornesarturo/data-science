@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Project DS</title>
+</head>
+<body>
+    <form id="form" action="/getRoute" method="POST" enctype="multipart/form-data">
+        <select id="selectOrigin" name = "origin">
+            <option value="Hospicio Cabañas">Hospicio Cabañas</option>
+            <option value="Plaza Galerías">Plaza Galerías</option>
+            <option value="Andares">Andares</option>
+            <option value="Secretaría de Movilidad">Secretaría de Movilidad</option>
+            <option value="La Minerva">La Minerva</option>
+            <option value="Basílica de Zapopan">Basílica de Zapopan</option>
+        </select>
+        <select id="selectDestination" name = "destination">
+            <option value="Hospicio Cabañas">Hospicio Cabañas</option>
+            <option value="Plaza Galerías">Plaza Galerías</option>
+            <option value="Andares">Andares</option>
+            <option value="Secretaría de Movilidad">Secretaría de Movilidad</option>
+            <option value="La Minerva">La Minerva</option>
+            <option value="Basílica de Zapopan">Basílica de Zapopan</option>
+        </select>
+        <input type="submit" value="Calculate">
+    </form>
+    <p>When you select an origin and destination click calculate.</p>
+    <div id="result">
+        {% if predicted is defined %}
+            Recommended route from {{ origin }} to {{ destination }} for current traffic: {{ predicted }}
+        {% endif %}
+    </div>
+</body>
+</html>

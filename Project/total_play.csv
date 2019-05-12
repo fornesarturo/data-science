@@ -1,0 +1,511 @@
+,time,hour,Alcalde,Avila_Camacho,Enrique_Diaz_de_Leon,Federalismo,Hidalgo,Independencia,Juarez,Lazaro_Cardenas,Lopez_Mateos,Vallarta,origin,destination
+0,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Plaza Galerías
+1,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Andares
+2,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Secretaría de Movilidad
+3,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,La Minerva
+4,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Basílica de Zapopan
+5,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Hospicio Cabañas
+6,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Andares
+7,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Secretaría de Movilidad
+8,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,La Minerva
+9,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Basílica de Zapopan
+10,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,Andares,Hospicio Cabañas
+11,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,Andares,Plaza Galerías
+12,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,Andares,Secretaría de Movilidad
+13,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,Andares,La Minerva
+14,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,Andares,Basílica de Zapopan
+15,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Hospicio Cabañas
+16,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Plaza Galerías
+17,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Andares
+18,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,La Minerva
+19,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Basílica de Zapopan
+20,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,La Minerva,Hospicio Cabañas
+21,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,La Minerva,Plaza Galerías
+22,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,La Minerva,Andares
+23,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,La Minerva,Secretaría de Movilidad
+24,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,La Minerva,Basílica de Zapopan
+25,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Hospicio Cabañas
+26,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Plaza Galerías
+27,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Andares
+28,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Secretaría de Movilidad
+29,2019-05-03 05:44:21.352348,05,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,La Minerva
+30,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Plaza Galerías
+31,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Andares
+32,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Secretaría de Movilidad
+33,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,La Minerva
+34,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Basílica de Zapopan
+35,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Hospicio Cabañas
+36,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Andares
+37,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Secretaría de Movilidad
+38,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,La Minerva
+39,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Basílica de Zapopan
+40,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,Andares,Hospicio Cabañas
+41,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,Andares,Plaza Galerías
+42,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,Andares,Secretaría de Movilidad
+43,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,Andares,La Minerva
+44,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,Andares,Basílica de Zapopan
+45,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Hospicio Cabañas
+46,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Plaza Galerías
+47,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Andares
+48,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,La Minerva
+49,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Basílica de Zapopan
+50,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,La Minerva,Hospicio Cabañas
+51,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,La Minerva,Plaza Galerías
+52,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,La Minerva,Andares
+53,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,La Minerva,Secretaría de Movilidad
+54,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,La Minerva,Basílica de Zapopan
+55,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Hospicio Cabañas
+56,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Plaza Galerías
+57,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Andares
+58,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Secretaría de Movilidad
+59,2019-05-03 06:44:21.352269,06,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,La Minerva
+60,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Plaza Galerías
+61,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Andares
+62,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Secretaría de Movilidad
+63,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,La Minerva
+64,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Basílica de Zapopan
+65,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Hospicio Cabañas
+66,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Andares
+67,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Secretaría de Movilidad
+68,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,La Minerva
+69,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Basílica de Zapopan
+70,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,Andares,Hospicio Cabañas
+71,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,Andares,Plaza Galerías
+72,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,Andares,Secretaría de Movilidad
+73,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,Andares,La Minerva
+74,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,Andares,Basílica de Zapopan
+75,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Hospicio Cabañas
+76,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Plaza Galerías
+77,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Andares
+78,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,La Minerva
+79,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Basílica de Zapopan
+80,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,La Minerva,Hospicio Cabañas
+81,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,La Minerva,Plaza Galerías
+82,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,La Minerva,Andares
+83,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,La Minerva,Secretaría de Movilidad
+84,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,La Minerva,Basílica de Zapopan
+85,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Hospicio Cabañas
+86,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Plaza Galerías
+87,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Andares
+88,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Secretaría de Movilidad
+89,2019-05-03 07:44:21.352264,07,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,La Minerva
+90,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,Hospicio Cabañas,Plaza Galerías
+91,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,Hospicio Cabañas,Andares
+92,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,Hospicio Cabañas,Secretaría de Movilidad
+93,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,Hospicio Cabañas,La Minerva
+94,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,Hospicio Cabañas,Basílica de Zapopan
+95,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,Plaza Galerías,Hospicio Cabañas
+96,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,Plaza Galerías,Andares
+97,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,Plaza Galerías,Secretaría de Movilidad
+98,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,Plaza Galerías,La Minerva
+99,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,Plaza Galerías,Basílica de Zapopan
+100,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,Andares,Hospicio Cabañas
+101,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,Andares,Plaza Galerías
+102,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,Andares,Secretaría de Movilidad
+103,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,Andares,La Minerva
+104,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,Andares,Basílica de Zapopan
+105,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,Secretaría de Movilidad,Hospicio Cabañas
+106,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,Secretaría de Movilidad,Plaza Galerías
+107,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,Secretaría de Movilidad,Andares
+108,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,Secretaría de Movilidad,La Minerva
+109,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,Secretaría de Movilidad,Basílica de Zapopan
+110,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,La Minerva,Hospicio Cabañas
+111,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,La Minerva,Plaza Galerías
+112,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,La Minerva,Andares
+113,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,La Minerva,Secretaría de Movilidad
+114,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,La Minerva,Basílica de Zapopan
+115,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,Basílica de Zapopan,Hospicio Cabañas
+116,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,Basílica de Zapopan,Plaza Galerías
+117,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,Basílica de Zapopan,Andares
+118,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,Basílica de Zapopan,Secretaría de Movilidad
+119,2019-05-03 08:44:21.352268,08,0,0,1,1,0,0,1,0,0,1,Basílica de Zapopan,La Minerva
+120,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Plaza Galerías
+121,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Andares
+122,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Secretaría de Movilidad
+123,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,La Minerva
+124,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Basílica de Zapopan
+125,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Hospicio Cabañas
+126,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Andares
+127,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Secretaría de Movilidad
+128,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,La Minerva
+129,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Basílica de Zapopan
+130,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,Andares,Hospicio Cabañas
+131,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,Andares,Plaza Galerías
+132,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,Andares,Secretaría de Movilidad
+133,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,Andares,La Minerva
+134,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,Andares,Basílica de Zapopan
+135,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Hospicio Cabañas
+136,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Plaza Galerías
+137,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Andares
+138,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,La Minerva
+139,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Basílica de Zapopan
+140,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,La Minerva,Hospicio Cabañas
+141,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,La Minerva,Plaza Galerías
+142,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,La Minerva,Andares
+143,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,La Minerva,Secretaría de Movilidad
+144,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,La Minerva,Basílica de Zapopan
+145,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Hospicio Cabañas
+146,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Plaza Galerías
+147,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Andares
+148,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Secretaría de Movilidad
+149,2019-05-03 09:44:21.352290,09,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,La Minerva
+150,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Plaza Galerías
+151,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Andares
+152,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Secretaría de Movilidad
+153,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,La Minerva
+154,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Basílica de Zapopan
+155,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Hospicio Cabañas
+156,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Andares
+157,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Secretaría de Movilidad
+158,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,La Minerva
+159,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Basílica de Zapopan
+160,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,Andares,Hospicio Cabañas
+161,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,Andares,Plaza Galerías
+162,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,Andares,Secretaría de Movilidad
+163,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,Andares,La Minerva
+164,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,Andares,Basílica de Zapopan
+165,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Hospicio Cabañas
+166,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Plaza Galerías
+167,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Andares
+168,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,La Minerva
+169,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Basílica de Zapopan
+170,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,La Minerva,Hospicio Cabañas
+171,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,La Minerva,Plaza Galerías
+172,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,La Minerva,Andares
+173,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,La Minerva,Secretaría de Movilidad
+174,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,La Minerva,Basílica de Zapopan
+175,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Hospicio Cabañas
+176,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Plaza Galerías
+177,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Andares
+178,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Secretaría de Movilidad
+179,2019-05-03 10:44:21.352273,10,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,La Minerva
+180,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Plaza Galerías
+181,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Andares
+182,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Secretaría de Movilidad
+183,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,La Minerva
+184,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Basílica de Zapopan
+185,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,Plaza Galerías,Hospicio Cabañas
+186,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,Plaza Galerías,Andares
+187,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,Plaza Galerías,Secretaría de Movilidad
+188,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,Plaza Galerías,La Minerva
+189,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,Plaza Galerías,Basílica de Zapopan
+190,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,Andares,Hospicio Cabañas
+191,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,Andares,Plaza Galerías
+192,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,Andares,Secretaría de Movilidad
+193,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,Andares,La Minerva
+194,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,Andares,Basílica de Zapopan
+195,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Hospicio Cabañas
+196,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Plaza Galerías
+197,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Andares
+198,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,La Minerva
+199,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Basílica de Zapopan
+200,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,La Minerva,Hospicio Cabañas
+201,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,La Minerva,Plaza Galerías
+202,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,La Minerva,Andares
+203,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,La Minerva,Secretaría de Movilidad
+204,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,La Minerva,Basílica de Zapopan
+205,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Hospicio Cabañas
+206,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Plaza Galerías
+207,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Andares
+208,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Secretaría de Movilidad
+209,2019-05-03 11:44:21.350552,11,1,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,La Minerva
+210,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,Hospicio Cabañas,Plaza Galerías
+211,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,Hospicio Cabañas,Andares
+212,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,Hospicio Cabañas,Secretaría de Movilidad
+213,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,Hospicio Cabañas,La Minerva
+214,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,Hospicio Cabañas,Basílica de Zapopan
+215,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,Plaza Galerías,Hospicio Cabañas
+216,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,Plaza Galerías,Andares
+217,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,Plaza Galerías,Secretaría de Movilidad
+218,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,Plaza Galerías,La Minerva
+219,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,Plaza Galerías,Basílica de Zapopan
+220,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,Andares,Hospicio Cabañas
+221,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,Andares,Plaza Galerías
+222,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,Andares,Secretaría de Movilidad
+223,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,Andares,La Minerva
+224,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,Andares,Basílica de Zapopan
+225,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,Secretaría de Movilidad,Hospicio Cabañas
+226,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,Secretaría de Movilidad,Plaza Galerías
+227,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,Secretaría de Movilidad,Andares
+228,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,Secretaría de Movilidad,La Minerva
+229,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,Secretaría de Movilidad,Basílica de Zapopan
+230,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,La Minerva,Hospicio Cabañas
+231,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,La Minerva,Plaza Galerías
+232,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,La Minerva,Andares
+233,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,La Minerva,Secretaría de Movilidad
+234,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,La Minerva,Basílica de Zapopan
+235,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,Basílica de Zapopan,Hospicio Cabañas
+236,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,Basílica de Zapopan,Plaza Galerías
+237,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,Basílica de Zapopan,Andares
+238,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,Basílica de Zapopan,Secretaría de Movilidad
+239,2019-05-03 12:44:21.350518,12,1,0,0,0,1,1,0,0,0,0,Basílica de Zapopan,La Minerva
+240,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,Hospicio Cabañas,Plaza Galerías
+241,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,Hospicio Cabañas,Andares
+242,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,Hospicio Cabañas,Secretaría de Movilidad
+243,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,Hospicio Cabañas,La Minerva
+244,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,Hospicio Cabañas,Basílica de Zapopan
+245,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,Plaza Galerías,Hospicio Cabañas
+246,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,Plaza Galerías,Andares
+247,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,Plaza Galerías,Secretaría de Movilidad
+248,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,Plaza Galerías,La Minerva
+249,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,Plaza Galerías,Basílica de Zapopan
+250,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,Andares,Hospicio Cabañas
+251,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,Andares,Plaza Galerías
+252,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,Andares,Secretaría de Movilidad
+253,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,Andares,La Minerva
+254,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,Andares,Basílica de Zapopan
+255,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,Secretaría de Movilidad,Hospicio Cabañas
+256,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,Secretaría de Movilidad,Plaza Galerías
+257,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,Secretaría de Movilidad,Andares
+258,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,Secretaría de Movilidad,La Minerva
+259,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,Secretaría de Movilidad,Basílica de Zapopan
+260,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,La Minerva,Hospicio Cabañas
+261,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,La Minerva,Plaza Galerías
+262,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,La Minerva,Andares
+263,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,La Minerva,Secretaría de Movilidad
+264,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,La Minerva,Basílica de Zapopan
+265,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,Basílica de Zapopan,Hospicio Cabañas
+266,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,Basílica de Zapopan,Plaza Galerías
+267,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,Basílica de Zapopan,Andares
+268,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,Basílica de Zapopan,Secretaría de Movilidad
+269,2019-05-03 13:44:21.350544,13,1,1,0,1,1,1,0,0,0,1,Basílica de Zapopan,La Minerva
+270,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,Hospicio Cabañas,Plaza Galerías
+271,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,Hospicio Cabañas,Andares
+272,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,Hospicio Cabañas,Secretaría de Movilidad
+273,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,Hospicio Cabañas,La Minerva
+274,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,Hospicio Cabañas,Basílica de Zapopan
+275,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,Plaza Galerías,Hospicio Cabañas
+276,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,Plaza Galerías,Andares
+277,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,Plaza Galerías,Secretaría de Movilidad
+278,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,Plaza Galerías,La Minerva
+279,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,Plaza Galerías,Basílica de Zapopan
+280,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,Andares,Hospicio Cabañas
+281,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,Andares,Plaza Galerías
+282,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,Andares,Secretaría de Movilidad
+283,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,Andares,La Minerva
+284,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,Andares,Basílica de Zapopan
+285,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,Secretaría de Movilidad,Hospicio Cabañas
+286,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,Secretaría de Movilidad,Plaza Galerías
+287,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,Secretaría de Movilidad,Andares
+288,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,Secretaría de Movilidad,La Minerva
+289,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,Secretaría de Movilidad,Basílica de Zapopan
+290,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,La Minerva,Hospicio Cabañas
+291,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,La Minerva,Plaza Galerías
+292,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,La Minerva,Andares
+293,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,La Minerva,Secretaría de Movilidad
+294,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,La Minerva,Basílica de Zapopan
+295,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,Basílica de Zapopan,Hospicio Cabañas
+296,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,Basílica de Zapopan,Plaza Galerías
+297,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,Basílica de Zapopan,Andares
+298,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,Basílica de Zapopan,Secretaría de Movilidad
+299,2019-05-03 14:44:21.350528,14,1,1,0,1,0,1,0,1,1,0,Basílica de Zapopan,La Minerva
+300,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,Hospicio Cabañas,Plaza Galerías
+301,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,Hospicio Cabañas,Andares
+302,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,Hospicio Cabañas,Secretaría de Movilidad
+303,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,Hospicio Cabañas,La Minerva
+304,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,Hospicio Cabañas,Basílica de Zapopan
+305,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,Plaza Galerías,Hospicio Cabañas
+306,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,Plaza Galerías,Andares
+307,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,Plaza Galerías,Secretaría de Movilidad
+308,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,Plaza Galerías,La Minerva
+309,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,Plaza Galerías,Basílica de Zapopan
+310,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,Andares,Hospicio Cabañas
+311,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,Andares,Plaza Galerías
+312,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,Andares,Secretaría de Movilidad
+313,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,Andares,La Minerva
+314,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,Andares,Basílica de Zapopan
+315,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,Secretaría de Movilidad,Hospicio Cabañas
+316,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,Secretaría de Movilidad,Plaza Galerías
+317,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,Secretaría de Movilidad,Andares
+318,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,Secretaría de Movilidad,La Minerva
+319,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,Secretaría de Movilidad,Basílica de Zapopan
+320,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,La Minerva,Hospicio Cabañas
+321,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,La Minerva,Plaza Galerías
+322,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,La Minerva,Andares
+323,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,La Minerva,Secretaría de Movilidad
+324,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,La Minerva,Basílica de Zapopan
+325,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,Basílica de Zapopan,Hospicio Cabañas
+326,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,Basílica de Zapopan,Plaza Galerías
+327,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,Basílica de Zapopan,Andares
+328,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,Basílica de Zapopan,Secretaría de Movilidad
+329,2019-05-03 15:44:21.350514,15,0,1,0,1,0,0,0,0,0,0,Basílica de Zapopan,La Minerva
+330,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,Hospicio Cabañas,Plaza Galerías
+331,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,Hospicio Cabañas,Andares
+332,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,Hospicio Cabañas,Secretaría de Movilidad
+333,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,Hospicio Cabañas,La Minerva
+334,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,Hospicio Cabañas,Basílica de Zapopan
+335,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,Plaza Galerías,Hospicio Cabañas
+336,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,Plaza Galerías,Andares
+337,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,Plaza Galerías,Secretaría de Movilidad
+338,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,Plaza Galerías,La Minerva
+339,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,Plaza Galerías,Basílica de Zapopan
+340,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,Andares,Hospicio Cabañas
+341,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,Andares,Plaza Galerías
+342,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,Andares,Secretaría de Movilidad
+343,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,Andares,La Minerva
+344,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,Andares,Basílica de Zapopan
+345,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,Secretaría de Movilidad,Hospicio Cabañas
+346,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,Secretaría de Movilidad,Plaza Galerías
+347,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,Secretaría de Movilidad,Andares
+348,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,Secretaría de Movilidad,La Minerva
+349,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,Secretaría de Movilidad,Basílica de Zapopan
+350,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,La Minerva,Hospicio Cabañas
+351,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,La Minerva,Plaza Galerías
+352,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,La Minerva,Andares
+353,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,La Minerva,Secretaría de Movilidad
+354,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,La Minerva,Basílica de Zapopan
+355,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,Basílica de Zapopan,Hospicio Cabañas
+356,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,Basílica de Zapopan,Plaza Galerías
+357,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,Basílica de Zapopan,Andares
+358,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,Basílica de Zapopan,Secretaría de Movilidad
+359,2019-05-03 16:44:21.350564,16,0,0,0,1,0,0,0,0,0,1,Basílica de Zapopan,La Minerva
+360,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,Hospicio Cabañas,Plaza Galerías
+361,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,Hospicio Cabañas,Andares
+362,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,Hospicio Cabañas,Secretaría de Movilidad
+363,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,Hospicio Cabañas,La Minerva
+364,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,Hospicio Cabañas,Basílica de Zapopan
+365,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,Plaza Galerías,Hospicio Cabañas
+366,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,Plaza Galerías,Andares
+367,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,Plaza Galerías,Secretaría de Movilidad
+368,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,Plaza Galerías,La Minerva
+369,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,Plaza Galerías,Basílica de Zapopan
+370,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,Andares,Hospicio Cabañas
+371,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,Andares,Plaza Galerías
+372,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,Andares,Secretaría de Movilidad
+373,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,Andares,La Minerva
+374,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,Andares,Basílica de Zapopan
+375,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,Secretaría de Movilidad,Hospicio Cabañas
+376,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,Secretaría de Movilidad,Plaza Galerías
+377,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,Secretaría de Movilidad,Andares
+378,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,Secretaría de Movilidad,La Minerva
+379,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,Secretaría de Movilidad,Basílica de Zapopan
+380,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,La Minerva,Hospicio Cabañas
+381,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,La Minerva,Plaza Galerías
+382,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,La Minerva,Andares
+383,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,La Minerva,Secretaría de Movilidad
+384,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,La Minerva,Basílica de Zapopan
+385,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,Basílica de Zapopan,Hospicio Cabañas
+386,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,Basílica de Zapopan,Plaza Galerías
+387,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,Basílica de Zapopan,Andares
+388,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,Basílica de Zapopan,Secretaría de Movilidad
+389,2019-05-03 17:44:21.350509,17,0,0,0,0,1,0,0,0,1,1,Basílica de Zapopan,La Minerva
+390,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,Hospicio Cabañas,Plaza Galerías
+391,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,Hospicio Cabañas,Andares
+392,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,Hospicio Cabañas,Secretaría de Movilidad
+393,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,Hospicio Cabañas,La Minerva
+394,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,Hospicio Cabañas,Basílica de Zapopan
+395,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,Plaza Galerías,Hospicio Cabañas
+396,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,Plaza Galerías,Andares
+397,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,Plaza Galerías,Secretaría de Movilidad
+398,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,Plaza Galerías,La Minerva
+399,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,Plaza Galerías,Basílica de Zapopan
+400,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,Andares,Hospicio Cabañas
+401,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,Andares,Plaza Galerías
+402,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,Andares,Secretaría de Movilidad
+403,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,Andares,La Minerva
+404,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,Andares,Basílica de Zapopan
+405,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,Secretaría de Movilidad,Hospicio Cabañas
+406,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,Secretaría de Movilidad,Plaza Galerías
+407,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,Secretaría de Movilidad,Andares
+408,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,Secretaría de Movilidad,La Minerva
+409,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,Secretaría de Movilidad,Basílica de Zapopan
+410,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,La Minerva,Hospicio Cabañas
+411,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,La Minerva,Plaza Galerías
+412,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,La Minerva,Andares
+413,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,La Minerva,Secretaría de Movilidad
+414,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,La Minerva,Basílica de Zapopan
+415,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,Basílica de Zapopan,Hospicio Cabañas
+416,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,Basílica de Zapopan,Plaza Galerías
+417,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,Basílica de Zapopan,Andares
+418,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,Basílica de Zapopan,Secretaría de Movilidad
+419,2019-05-03 18:44:21.350516,18,0,1,0,0,1,1,1,1,1,1,Basílica de Zapopan,La Minerva
+420,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,Hospicio Cabañas,Plaza Galerías
+421,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,Hospicio Cabañas,Andares
+422,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,Hospicio Cabañas,Secretaría de Movilidad
+423,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,Hospicio Cabañas,La Minerva
+424,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,Hospicio Cabañas,Basílica de Zapopan
+425,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,Plaza Galerías,Hospicio Cabañas
+426,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,Plaza Galerías,Andares
+427,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,Plaza Galerías,Secretaría de Movilidad
+428,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,Plaza Galerías,La Minerva
+429,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,Plaza Galerías,Basílica de Zapopan
+430,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,Andares,Hospicio Cabañas
+431,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,Andares,Plaza Galerías
+432,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,Andares,Secretaría de Movilidad
+433,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,Andares,La Minerva
+434,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,Andares,Basílica de Zapopan
+435,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,Secretaría de Movilidad,Hospicio Cabañas
+436,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,Secretaría de Movilidad,Plaza Galerías
+437,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,Secretaría de Movilidad,Andares
+438,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,Secretaría de Movilidad,La Minerva
+439,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,Secretaría de Movilidad,Basílica de Zapopan
+440,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,La Minerva,Hospicio Cabañas
+441,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,La Minerva,Plaza Galerías
+442,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,La Minerva,Andares
+443,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,La Minerva,Secretaría de Movilidad
+444,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,La Minerva,Basílica de Zapopan
+445,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,Basílica de Zapopan,Hospicio Cabañas
+446,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,Basílica de Zapopan,Plaza Galerías
+447,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,Basílica de Zapopan,Andares
+448,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,Basílica de Zapopan,Secretaría de Movilidad
+449,2019-05-03 19:44:21.350514,19,0,0,0,0,1,1,1,1,1,0,Basílica de Zapopan,La Minerva
+450,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Plaza Galerías
+451,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Andares
+452,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Secretaría de Movilidad
+453,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,La Minerva
+454,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Basílica de Zapopan
+455,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Hospicio Cabañas
+456,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Andares
+457,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Secretaría de Movilidad
+458,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,La Minerva
+459,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Basílica de Zapopan
+460,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,Andares,Hospicio Cabañas
+461,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,Andares,Plaza Galerías
+462,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,Andares,Secretaría de Movilidad
+463,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,Andares,La Minerva
+464,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,Andares,Basílica de Zapopan
+465,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Hospicio Cabañas
+466,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Plaza Galerías
+467,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Andares
+468,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,La Minerva
+469,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Basílica de Zapopan
+470,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,La Minerva,Hospicio Cabañas
+471,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,La Minerva,Plaza Galerías
+472,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,La Minerva,Andares
+473,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,La Minerva,Secretaría de Movilidad
+474,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,La Minerva,Basílica de Zapopan
+475,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Hospicio Cabañas
+476,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Plaza Galerías
+477,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Andares
+478,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Secretaría de Movilidad
+479,2019-05-03 20:44:21.350558,20,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,La Minerva
+480,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Plaza Galerías
+481,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Andares
+482,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Secretaría de Movilidad
+483,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,La Minerva
+484,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,Hospicio Cabañas,Basílica de Zapopan
+485,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Hospicio Cabañas
+486,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Andares
+487,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Secretaría de Movilidad
+488,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,La Minerva
+489,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,Plaza Galerías,Basílica de Zapopan
+490,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,Andares,Hospicio Cabañas
+491,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,Andares,Plaza Galerías
+492,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,Andares,Secretaría de Movilidad
+493,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,Andares,La Minerva
+494,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,Andares,Basílica de Zapopan
+495,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Hospicio Cabañas
+496,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Plaza Galerías
+497,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Andares
+498,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,La Minerva
+499,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,Secretaría de Movilidad,Basílica de Zapopan
+500,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,La Minerva,Hospicio Cabañas
+501,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,La Minerva,Plaza Galerías
+502,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,La Minerva,Andares
+503,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,La Minerva,Secretaría de Movilidad
+504,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,La Minerva,Basílica de Zapopan
+505,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Hospicio Cabañas
+506,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Plaza Galerías
+507,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Andares
+508,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,Secretaría de Movilidad
+509,2019-05-03 21:44:21.350553,21,0,0,0,0,0,0,0,0,0,0,Basílica de Zapopan,La Minerva
